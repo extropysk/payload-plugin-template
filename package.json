@@ -2,7 +2,6 @@
   "name": "@extropysk/payload-plugin-template",
   "version": "0.0.0",
   "homepage:": "https://payloadcms.com",
-  "repository": "git@github.com:payloadcms/payload-plugin-template.git",
   "description": "Blank plugin template for Payload",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
